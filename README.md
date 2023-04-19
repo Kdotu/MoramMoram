@@ -14,7 +14,7 @@ Outsourcing Platform middle-Project
 이 중에서 TA를 맡아 API 연구 및 배포하는 작업을 중점적으로 진행하였습니다.
 
 
-🗓️PROJECT PERIOD
+## 🗓️PROJECT PERIOD
 2022-11-23 ~2022-12-21 : 총 28일
 
 
@@ -22,15 +22,13 @@ Outsourcing Platform middle-Project
 
 ## 시스템 메인 화면
 ![image](https://user-images.githubusercontent.com/110898315/232966567-c797bafa-1be5-4279-ad19-daea6d6ef987.png)
-#
-서비스를 이용하기 위한 카테고리를 나눠 사용자들이 볼 수 있도록 구현하였습니다.
+- 서비스를 이용하기 위한 카테고리를 나눠 사용자들이 볼 수 있도록 구현하였습니다.
 
 
 
 ## 서비스 페이지 내 캘린더 API 활용
 ![image](https://user-images.githubusercontent.com/110898315/232966695-8ed2f7df-af64-4ddc-9557-4e8919d925df.png)
-#
-해당 서비스 페이지 내에서 서비스 상세 정보와 함께 서비스를 제공하는 전문가의 일정 정보를 열람할 수 있도록 구현하였습니다.
+- 해당 서비스 페이지 내에서 서비스 상세 정보와 함께 서비스를 제공하는 전문가의 일정 정보를 열람할 수 있도록 구현하였습니다.
 
 
 
@@ -38,8 +36,7 @@ Outsourcing Platform middle-Project
 ![image](https://user-images.githubusercontent.com/110898315/232966734-1167b301-3251-4198-b69d-45b99fe358ea.png)
 ![image](https://user-images.githubusercontent.com/110898315/232966780-913bfcb9-0fd2-422f-9ee1-25210ed3d5fc.png)
 
-#
-(다음 우편번호 API, Kakao Map API 활용)
+- (다음 우편번호 API, Kakao Map API 활용)
 위치 정보를 저장할 때 사용자가 해당 위치가 맞는지 확인할 수 있도록 검색한 주소의 좌표를 지도 내 마크를 표시하였습니다.
 
 
