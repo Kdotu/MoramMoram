@@ -1,25 +1,27 @@
 # Project MoramMoram
 Outsourcing Platform middle-Project
-
+<br />
 ## ✉️PROJECT CONCEPT
 “유연한 근무 방식을 원하는 gig-worker를 위한 플랫폼 Moram Moram”
+<br />
 
-‘**프로젝트 모람모람’**은 자기 능력을 활용하여 원하는 시간대와 방법으로 서비스를 이용할 수 있도록 편의성을 제공하는 아웃소싱 플랫폼입니다.
+<b>‘프로젝트 모람모람’</b>은 자기 능력을 활용하여 원하는 시간대와 방법으로 서비스를 이용할 수 있도록 편의성을 제공하는 아웃소싱 플랫폼입니다.
 모람모람 프로젝트는 프리랜서 마켓 ‘크몽’과 ‘숨고’를 벤치마킹하여 만들었습니다. 
 모람모람에서 사용자는 전문가가 올린 서비스 카테고리를 선택하여 서비스 상세 정보를 확인할 수 있고, 
 일반 사용자도 전문가로 전환해서 서비스를 등록하여 서비스를 제공할 수 있습니다.
-
+<br />
 ## 🧙TEAM MEMBER
 (PL,TA,AA,DA,UA,UA)
 이 중에서 TA를 맡아 API 연구 및 배포하는 작업을 중점적으로 진행하였습니다.
-
+<br />
 
 ## 🗓️PROJECT PERIOD
 2022-11-23 ~2022-12-21 : 총 28일
-
+<br />
 
 ## 개발환경
 - Platforms & Languages
+<br />
 <div align="left">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
